@@ -1,0 +1,99 @@
+Macintosh IIcx: Technical Specifications
+ 
+This article last reviewed: 6 March 1989
+ 
+Following are the technical specifications for the Macintosh IIcx.
+ 
+CENTRAL PROCESSING UNIT (CPU)
+- Microprocessor : 15.6672 MHz MC68030 CPU
+- Address Bus : 32-bit
+- Registers (32-bit) : 16 general-purpose data and address,
+  two 32-bit Supervisor stack pointers, ten special-purpose
+  control registers
+- Addressing Modes : 18
+- 256-byte instruction cache and 256-byte data cache
+- Built-in Paged Memory Management Unit (PMMU)
+ 
+COPROCESSOR
+- MC68882 floating-point unit (follows IEEE standards)
+ 
+MEMORY
+- 1, 2, 4, 5, 8 MB RAM (Random Access Memory)
+- 256Kbytes of ROM (Read-Only Memory)
+- 256 bytes of settable parameter memory with built-in battery backup
+ 
+KEYBOARD (not included)
+- Apple Keyboard or Apple Extended Keyboard can be connected through
+  the Apple Desktop Bus port
+ 
+MOUSE
+- Apple Desktop Bus Mouse (ADB) mechanical tracking, optical shaft
+  or contact encoding  100 +- 10 pulses per inch
+  (3.94 +- 0.39 pulse per mm) of travel.
+ 
+DISK DRIVE
+- One 1.4 MB high-density (Apple FDHD) internal drive. Only one internal,
+  floppy drive is supported. The unit ships with the Apple FDHD, but the
+  logic board also supports an 800K drive.
+- External connector for 800K or 1.4MB external floppy
+ 
+HARD DISK DRIVE
+- A 3.5" 40MB or 80MB hard drive is standard.
+ 
+INTERFACES
+- Two Apple Desktop Bus (ADB) connectors for keyboard, mouse, and
+  low-speed input devices.
+- Three NuBus Slots supporting full 32-bit address and data lines
+  through a 96-pin Euro-DIN connector.
+- Two RS-232/RS-422 serial ports, 230.4K baud maximum
+  (up to 0.920 Mbit per second if clocked externally).
+- SCSI interface
+- Stereo sound port for external audio amplifier
+ 
+SOUND GENERATION
+- Apple Sound Chip (ASC) including 4-voice wave-table synthesis and stereo 
+sampling generator capable of driving stereo mini-phono jack headphones or
+stereo equipment
+- Mixed stereo monophonic sound output through internal speaker
+ 
+ELECTRICAL REQUIRMENTS
+- Line voltage: 100 to 240 volts AC, RMS automatically configured
+- Line frequency: 50 to 60 hertz singe phase
+- Maximum power consumption: 130 watts maximum, 90 watts maximum continuous
+ 
+ENVIRONMENTAL REQUIREMENTS
+- Operating temperature:  50[?] TO 104[?]F (10[?] TO 40[?] C)
+- Storage temperature:  -40[?] TO 116.6[?]F
+- Relative humidity:  5% to 95% (non-condensing)
+- Altitude:  0 to 10,000 ft (0 to 3048 m)
+- Fan: 17 CFM radial
+ 
+SAFETY AND EMI QUALIFICATIONS
+- FCC part 15 Class B Computing Devices
+- UL 478 Electronic Data Processing Equipment
+- CSA (Canadian Standards Assn.) 220 Information Processing and
+  Business Equipment
+ 
+SIZE AND WEIGHT
+- Main Unit
+    Height: 5.5 inches (140 mm)
+    Width: 11.9 inches (302 mm)
+    Depth: 14.4 inches (365 mm)
+    Weight: 13 lbs. 10 oz. (6.2 kg)
+- Apple Keyboard (not included)
+    Height: 1.8 inches (44.5 mm)
+    Width: 16.5 inches (418.3 mm)
+    Depth: 5.6 inches (142.0 mm)
+    Weight: 2 lbs. 2 oz. (1 kg)
+- Apple Extended Keyboard (not included)
+    Height: 2.3 inches (56.4 mm)
+    Width: 19.1 inches (486 mm)
+    Depth: 7.4 inches (188 mm)
+    Weight: 3 lbs. 10 oz. (1.6 kg)
+- Apple Mouse (ADB)
+    Height: 1.1 inches (27.9 mm)
+    Width: 2.1 inches (53.3 mm)
+    Depth: 3.8 inches (96.5 mm)
+    Weight: 6 oz. (.175 kg)
+ 
+Copyright 1988 Apple Computer, Inc.
