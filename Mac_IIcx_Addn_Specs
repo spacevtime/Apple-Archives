@@ -1,0 +1,30 @@
+Macintosh IIcx
+ 
+Copyright 1989, Apple Computer, Inc.
+ 
+The Macintosh IIcx has a full 32-bit 68030 microprocessor, a 68882 floating
+point coprocessor, three NuBus expansion slots and a small, modular design.
+Other features include:
+ 
+--  Compatibility with Macintosh II and IIx software
+--  Apple FDHD (high density floppy disk drive with 1.4MB capacity) reads from
+    and writes to Ms-DOS, OS/2, and Apple II (ProDOS) drives
+--  Built-in Paged Memory management unit to support multitasking operating
+    systems
+--  Small footprint and mounting flexibility (base, side or from a bracket)
+--  Easy disassembly: remove a single screw and access critical components
+    such as RAM, ROM and drives
+ 
+Configurations:
+ 
+--  Macintosh IIcx CPU (M5660) includes the main unit, 1 MB of RAM, one 1.4MB
+    FDHD floppy disk drive, and mouse
+--  Macintosh IIcx Hard Disk 40 CPU (M5610) includes the main unit, 1 MB of
+    RAM, a 40MB hard disk, one 1.4MB floppy disk drive, and mouse
+--  Macintosh IIcx Hard Disk 80 CPU (M5680) includes the main unit, 4MB of RAM,
+    an 80 MB hard disk, one 1.4MB FDHD floppy disk drive, and mouse
+--  Macintosh IIcx Hard Disk 80 CPU (with A/UX) (B0097ll/A) includes the main
+    unit, 4MB of RAM, an 80MB hard disk formatted with the A/UX operating
+    system, one 1.4MB FDHD floppy disk drive, and mouse
+------------------------------------------------------------------------------
+ 
